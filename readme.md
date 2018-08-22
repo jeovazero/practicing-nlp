@@ -6,8 +6,15 @@
 
 ## Some requeriments
 
-- python3
-- nltk
+- Python3
+- pip3
+- NLTK
+
+## Installation
+
+1. pip3 install nltk
+2. python3 -m nltk.downloader book
+3. Done!
 
 ### Questions
 
