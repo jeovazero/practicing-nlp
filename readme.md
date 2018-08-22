@@ -4,12 +4,15 @@
 
 >  NLTK - Natural Language Toolkit
 
+## Some requeriments
 
+- python3
+- nltk
 
 ### Questions
 
 - #### Chapter 01 > https://www.nltk.org/book/ch01.html
-  - [ ] 4
+  - [x] 4
   - [ ] 6
   - [ ] 7
   - [ ] 9
