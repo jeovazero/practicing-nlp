@@ -7,6 +7,5 @@
 
 '''
 from nltk.book import text5
-from nltk.collocations import *
 
 text5.collocations()
