@@ -22,7 +22,7 @@ Done!
 - #### Chapter 01 > https://www.nltk.org/book/ch01.html
   - [x] 4
   - [x] 6
-  - [ ] 7
+  - [x] 7
   - [ ] 9
   - [ ] 10
   - [ ] 15
